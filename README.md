@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Alexander Vorvul
-- 👀 I’m interested in React Native
-- 🌱 I’m currently interested in Software quality assurance theory
-- 📫 Reach me out on [LinkedIn](https://www.linkedin.com/in/vorvule/)
-
-[My site](https://vorvule.github.io/vorvule/)
+- ✌️ Hi, I’m Alexander Vorvul
+- 💼 And this is my [site](https://vorvule.github.io/vorvule/) on GitHub
+- 🔎 I am a Quality Assurance engineer
+- 📍 Interested in Full Stack development
+- 🌱 And these are my pet project's [site](https://dabravesce.by) and [app](https://play.google.com/store/apps/details?id=by.dabravesce&hl=en&gl=US)
+- 💎 Having the same code base written in React Native
+- 🔮 And powered up by my beloved [Supabase](https://supabase.com)
+- 📫 If you need my voice, just [email](al.vorvul@gmail.com) me
+- 🧬 Or reach me out on [LinkedIn](https://www.linkedin.com/in/vorvule/)
+- 🪚 Wish you cozy coding!
